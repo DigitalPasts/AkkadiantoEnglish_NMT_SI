@@ -1,0 +1,52 @@
+Sentences,Proper translation,Improper translation,Intrinsic hallucination,Extrinsic hallucination,Genres,Remarks
+1,,+,,,Royal Inscription,
+2,+,,,,Royal inscription,The NMT are as good as a HT
+3,,,+,,Royal inscription,
+4,,+,,,Royal inscription,
+5,,+,,,Royal inscription,
+6,,,,+,Royal inscription,
+7,,+,,,Royal inscription,Repetitions
+8,+,,,,Royal inscription,The NMT are as good as a HT
+9,,,,+,Royal inscription,
+10,,+,,,Royal inscription,
+11,,,,+,Royal inscription,
+12,,+,,,Royal inscription,
+13,+,,,,Royal inscription,
+14,+,,,,Royal inscription,The NMT missed only one word
+15,,+,,,Royal inscription,Repetitions
+16,,+,,,Old Babylonian Royal inscription,
+17,+,,,,Administratives letters,
+18,+,,,,Administratives letters,The NMT are as good as a HT
+19,+,,,,Administratives letters,
+20,,+,,,Administratives letters,
+21,,+,,,Administratives letters,
+22,+,,,,Administratives letters,
+23,,,+,,Administratives letters,
+24,,,+,,Administratives letters,
+25,,+,,,Administratives letters,
+26,,+,,,Administratives letters,
+27,,+,,,Administratives letters,
+28,,,+,,Administratives letters,
+29,,+,,,Administratives letters,
+30,+,,,,Legal transactions,
+31,+,,,,Legal transactions,
+32,+,,,,Legal transactions,The NMT missed only one word
+33,,+,,,Legal transactions,
+34,+,,,,Legal transactions,The NMT are as good as a HT
+35,+,,,,Legal transactions,Repetitions
+36,+,,,,Legal transactions,
+37,,,+,,Legal transactions,
+38,,+,,,Legal transactions,
+39,,,+,,Legal transactions,
+40,,,+,,Astrological omen,
+41,,+,,,Astrological omen,
+42,,+,,,Extispicy omen,
+43,+,,,,Extispicy omen,
+44,,+,,,Extispicy omen,
+45,,+,,,Old Babylonian extispicy query,
+46,,,+,,Administrative records,
+47,,,+,,Administrative records,
+48,,+,,,Administrative records,
+49,+,,,,Administrative records,
+50,,+,,,Administrative records,
+Total,16,22,9,3,,

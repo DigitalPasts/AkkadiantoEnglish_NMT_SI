@@ -1,0 +1,34 @@
+Sentences,Proper translation,Improper translation,Intrinsic hallucination,extrinsic hallucination,Misalignment,Remarks
+56,,+,,,,
+163,,+,,,,
+179,,+,,,,
+216,,+,,,,
+365,,,+,,,"The NMT is semantically and syntactically correct, but is not equivalent to the source except for the word ""house"""
+405,,,,+,,NMT with repetitions
+414,,+,,,+,"The correct translation is: «Nabonidus, king of Babylon, shepherd chosen by Marduk». The NMT is closer than the aligned HT"
+495,,+,,,,No translation at all
+593,,+,,,+,
+618,+,,,,,NMT same as HT
+760,+,,,,,Repetitions in the source
+839,+,,,,,This NMT is surprisingly more literal than the HT
+840,+,,,,,
+891,,+,,,+,
+1075,+,,,,,NMT same as HT
+1237,+,,,,,
+1326,+,,,,,This NMT is slightly better than the HT because the sign for the number 1 at the beginning of the line is correctly translated as the conjunction “if” (Akk. šumma)
+1386,+,,,,,"Middle large source sentence. This NMT is not the same as the HT, but it is very close and definitely useful."
+1541,,,+,,,NMT with repetitions
+1556,+,,,,+,
+1725,,+,,,,No translation at all
+1770,,+,,,+,NMT is closer than the aligned HT
+1789,+,,,,,NMT same as HT
+1799,,,+,,,NMT with repetitions
+1853,+,,,,,Middle large source sentence
+2114,,+,,,,No translation at all
+2239,,,,+,+,
+2383,+,,,,+,
+2480,+,,,,,This NMT is surprisingly more literal than the HT
+2753,+,,,,,
+2758,,+,,,,
+2855,,+,,,+,
+Total,14,13,3,2,8,

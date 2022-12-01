@@ -1,0 +1,26 @@
+Sentences,Proper translation,Improper translation,Intrinsic hallucination,Extrinsic hallucination,Misalignment,Remarks
+108,,+,,,,
+257,,+,,,,
+280,,,+,,,Repetitions
+402,,+,,,,
+457,+,,,,,
+745,+,,,,,"The second personal name in the source is not translated correctly, but the NMT is otherwise a proper translation"
+1157,+,,,,,
+1187,+,,,,,NMT same as HT
+1217,,+,,,,Repetitions
+1224,,+,,,,Repetitions
+1358,,+,,,,
+1573,,+,,,,
+1665,,,+,,,
+1992,,,,+,,
+1984,+,,,,,NMT same as HT
+1994,,+,,,,
+2278,+,,,,,
+2292,,+,,,,"In this instance the name of the temple dedicated to the god Nergal E2.MES.LAM means «House, Warrior of the Netherworld». Normally such a name is not translated. The model translated correctly «house», but that is not the case for the rest. The translation of «statue» is also interesting because the Sumerian word for it is «alan» that sometimes is written with the last sign of this example: «a-lam»."
+2303,,,+,,,
+2469,+,,,,+,"In this instance there is no HT, but a editorial note «(broken)». The translation should be «and which they will hear»."
+2494,,,,+,,
+2521,,+,,,,
+2552,+,,,,+,Names are perfectly translated
+2553,+,,,,+,Names are perfectly translated
+,9,10,3,2,,
